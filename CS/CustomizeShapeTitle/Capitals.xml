@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<Capitals>
+  <Capital>
+    <Name>London</Name>
+    <Population>8416999</Population>
+    <Latitude>51.507222</Latitude>
+    <Longitude>-0.1275</Longitude>
+  </Capital>
+
+  <Capital>
+    <Name>Rome</Name>
+    <Population>2865151</Population>
+    <Latitude>41.9</Latitude>
+    <Longitude>12.5</Longitude>
+  </Capital>
+
+  <Capital>
+    <Name>Paris</Name>
+    <Population>2243833</Population>
+    <Latitude>48.8567</Latitude>
+    <Longitude>2.3508</Longitude>
+  </Capital>
+
+  <Capital>
+    <Name>Berlin</Name>
+    <Population>3401147</Population>
+    <Latitude>52.52</Latitude>
+    <Longitude>13.38</Longitude>
+  </Capital>
+
+  <Capital>
+    <Name>Madrid</Name>
+    <Population>3041579</Population>
+    <Latitude>40.4</Latitude>
+    <Longitude>-3.68</Longitude>
+  </Capital>
+</Capitals>
